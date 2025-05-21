@@ -1,1 +1,1 @@
-線性模型
+Linear Regression Model
